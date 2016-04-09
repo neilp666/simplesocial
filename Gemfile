@@ -15,6 +15,7 @@ gem 'font-awesome-rails'
 gem 'simple_form'
 gem 'devise'
 gem 'dotenv-rails', groups: [:development]
+gem 'omniauth-twitter'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
