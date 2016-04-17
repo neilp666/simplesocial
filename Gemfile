@@ -18,6 +18,8 @@ gem 'dotenv-rails', groups: [:development]
 gem 'omniauth-twitter'
 gem 'omniauth-facebook'
 gem 'validates_timeliness', '~> 4.0'
+gem 'twitter'
+gem 'koala'
 
 gem 'datetimepicker-rails', github: 'zpaulovics/datetimepicker-rails', branch: 'master', submodules: true
 gem 'momentjs-rails', '~> 2.9',  :github => 'derekprior/momentjs-rails'
